@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.arrow-img {
+  width: 20px;
+  height: 20px;
+}
+
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.para {
+  color: #475569;
+  font-family: 'Roboto';
+  margin: 0;
+}
+
+.arrow-btn {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
